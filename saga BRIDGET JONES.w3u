@@ -1,0 +1,56 @@
+{
+"name": "Bridget Jones",
+"image": "https://pics.filmaffinity.com/bridget_jones_s_diary-433337590-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20BRIDGET%20JONES.w3u",
+"info": "bY Virgin Mary",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "El diario de Bridget Jones",
+"image": "https://pics.filmaffinity.com/bridget_jones_s_diary-433337590-large.jpg",
+"url": "https://byseraguci.com/d/zrfsi13e90um/el-diario-de-bridget-jones",
+"info": "[Español 2001]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+},
+{
+"name": "Bridget Jones: Sobreviviré",
+"image": "https://pics.filmaffinity.com/bridget_jones_the_edge_of_reason-306110424-large.jpg",
+"url": "https://byseraguci.com/d/1dlbz6l99q7d/el-diario-de-bridget-jones-ii-sobrevivir%C3%A9",
+"info": "[Español 2004]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+},
+{
+"name": "Bridget Jones Baby",
+"image": "https://pics.filmaffinity.com/bridget_jones_s_baby-161697991-large.jpg",
+"url": "https://byseraguci.com/d/zu8wtj17g2r1/bridget-jones-s-baby",
+"info": "[Español 2016]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+},
+{
+"name": "Bridget Jones, loca por el",
+"image": "https://pics.filmaffinity.com/bridget_jones_mad_about_the_boy-609929628-large.jpg",
+"url": "https://byseraguci.com/d/ilzwryao57i1/bridget-jones-loca-por-%C3%A9l",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+}
+
+]
+}
